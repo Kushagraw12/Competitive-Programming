@@ -2,7 +2,7 @@
 
 These are the solutions of the questions that I solved in #CP 
 
-##Codeforces
+## Codeforces
 [Codeforces](https://github.com/Kushagraw12/Competitive-Programming/tree/master/Codeforces)
 
 ```python
