@@ -1,5 +1,4 @@
-
-//...START BY DOING WHAT IS NECESSARY, THEN WHAT IS POSSIBLE AND SUDDENLY YOU ARE DOING THE IMPOSSIBLE...
+// AUTHOR: KUSHAGRA WADHWA
 #include <iostream>
 #include <string>
 #include <bits/stdc++.h>
