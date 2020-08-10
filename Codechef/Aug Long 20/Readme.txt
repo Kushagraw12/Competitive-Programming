@@ -1,5 +1,4 @@
-# AUGUST LONG LIVE CHALLENGE
-
+# AUGUST LONG CHALLENGE 20
 ## Solutions will be pusheed when the live contest is over!
 
 Questions solved:
