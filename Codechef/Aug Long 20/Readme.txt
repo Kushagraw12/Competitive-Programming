@@ -7,3 +7,4 @@ Questions solved:
 2. LINCHESS
 3. CRDGAME3
 4. SKMP
+5. CHEFWED
