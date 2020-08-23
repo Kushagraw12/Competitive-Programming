@@ -1,19 +1,20 @@
 import sys
-input = sys.stdin.readline
+from collections import Counter
+#input = sys.stdin.readline
 t = int(input())
 for _ in range(t):
-    n = int(input())
-    a = list(map(int, input().strip()))
-    c = 0
-    for i in range(len(a)+1):
-
-        for j in range(i+1, len(a)+1):
-            s = a[i:j]
-            
-            if sum(s) == len(s):
-                c += 1 
+    #n = int(input())
+    #a = list(map(int, input().strip()))
+    C = Counter([0])
+    k = -1
+    count = 0
+    input()
+    for i, x in enumerate(map(int, input())):
+        k += x
+        count += C[k-i]
+        C[k-i] += 1 
     
-    print(c)
+    print(count)
     print()
     
 
