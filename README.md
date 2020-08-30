@@ -8,6 +8,14 @@ These are the solutions of the questions that I solved in Competitive Programmin
 ## Codechef
 [Codechef](https://github.com/Kushagraw12/Competitive-Programming/tree/master/Codechef)
 
+## Hackerrank 
+[Hackerrank](https://github.com/Kushagraw12/Competitive-Programming/tree/master/Hackerearth)
+
+## Google Coding Round
+[Google](https://github.com/Kushagraw12/Competitive-Programming/tree/master/Google)
+
+## Hackerearth
+[Hackerearth](https://github.com/Kushagraw12/Competitive-Programming/tree/master/Hackerearth)
 
 ```python
 print('Happy Coding')
